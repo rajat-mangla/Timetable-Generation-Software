@@ -2747,7 +2747,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFZ9KAxlMlG1vU="
 							},
-							"name": "SequenceDiagram1",
+							"name": "viewTimetable",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -2778,11 +2778,11 @@
 											"containerExtending": false,
 											"left": 190.97900390625,
 											"top": 13,
-											"width": 115.9052734375,
+											"width": 84.08447265625,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "SequenceDiagram1",
+											"text": "viewTimetable",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
